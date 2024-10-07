@@ -2,6 +2,8 @@
 
 Glasfaser is a 6-pin Pmod™ compatible module intended for optical audio output.
 
+![Glasfaser](https://github.com/machdyne/glasfaser/blob/c28f46764bddda621d91494f22e8efc8d2f5e074/glasfaser.png)
+
 This repo contains pinouts and example gateware.
 
 ## Verilog Demo
