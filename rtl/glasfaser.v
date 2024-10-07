@@ -100,7 +100,7 @@ module glasfaser
 	spdif #(
 		.AUDIO_RATE(48000),
 		.AUDIO_CLK_SRC("INTERNAL"),
-		.CLK_RATE_KHZ(50000)
+		.CLK_RATE_KHZ(48000)
 	) spdif_i (
 		.clk_i(clk),
 		.rst_i(!resetn),
